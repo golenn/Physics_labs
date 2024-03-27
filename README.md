@@ -1,2 +1,2 @@
 # Physics_labs
-Here you can find all the laboratory works I have done for the physics course
+Here you can find some of my lab work from my physics course
